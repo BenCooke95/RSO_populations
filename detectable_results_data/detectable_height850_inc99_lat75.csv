@@ -1,4 +1,4 @@
-q_offset,i_offset,n_offset,m_offset,detectable_10.0
+h_offset,i_offset,omega_offset,nu_offset,detectable_10.0
 -72.0,-0.20000000000000012,-0.7000000000000002,-0.7,1
 -70.0,-0.20000000000000012,-1.0,-0.7,1
 -70.0,-0.20000000000000012,-0.8999999999999999,-0.7,1
