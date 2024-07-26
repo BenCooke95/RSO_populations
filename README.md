@@ -7,7 +7,7 @@ Data files to accompany 'Predicting RSO Populations Using a Neighbouring Orbits 
 Data files used to generate Table 2 of the accompanying paper.
 
 File names list the height and inclination of the default orbit, as well as the latitude from which simulated observations are carried out. Data is in csv format with 5+ columns:
-  - Columns 1-4: Tested q, i, n and m offset values (units of km, deg, deg, deg respectively)
+  - Columns 1-4: Tested h, i, omega and nu offset values (units of km, deg, deg, deg respectively)
   - Columns 5-8: Detectability result for a maximum relative velocity of 2.5, 5.0, 7.5 and 10.0 pix/s respectively (boolean)
   - Column 9: Sum of columns 5-8
 
