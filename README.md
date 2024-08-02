@@ -18,9 +18,9 @@ For a subset of the data files the only tested velocity is 10.0 pix/s and the su
 Data files used to generate Figure 9 of the accompanying paper.
 
 Files are separated based on the variable being tested:
-  - n_frames: 6, 8, 10, 12, 14 frames
-  - n_pix: 25, 37, 50, 63, 75 pix
-  - exp_time: 250, 500, 750, 1000 ms
+  - $n$ (number of frames): 6, 8, 10, 12, 14 frames
+  - $n_{\rm pix}$ (number of pixels): 25, 37, 50, 63, 75 pix
+  - $t$ (exposure time): 250, 500, 750, 1000 ms
 
 Data is in csv format with 3 columns:
   - Column 1: Injected target magnitude
