@@ -1,7 +1,7 @@
 # RSO_populations
 Data files to accompany 'Predicting RSO Populations Using a Neighbouring Orbits Technique' paper. CC-BY-4.0
 
-[Predicting RSO Populations Using a Neighbouring Orbits Technique](https://arxiv.org/abs/2408.04966) Cooke et al. 2024.
+[Predicting RSO Populations Using a Neighbouring Orbits Technique](https://academic.oup.com/rasti/advance-article/doi/10.1093/rasti/rzae034/7733820) Cooke et al. 2024.
 
 ## detectable_results_data
 Data files used to generate Table 2 of the accompanying paper.
